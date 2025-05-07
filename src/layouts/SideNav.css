@@ -1,0 +1,26 @@
+/* SideNav.css */
+
+/* Keyframes for the pulse animation */
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  /* Circular profile image with animation */
+  .profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid white;
+    margin-bottom: 10px;
+    animation: pulse 2s infinite; /* Apply pulse animation */
+  }
+  

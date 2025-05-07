@@ -24,9 +24,12 @@ export default function Projects() {
 
   return (
     <Box sx={{ paddingTop: '50px', textAlign: 'center' }}>
-      <Typography variant="h3" sx={{ marginBottom: '30px', color: 'white' }}>
-        Projects
-      </Typography>
+      <Typography variant="h4" align="center"
+      sx={{ fontWeight: 'bold', color: '#000', mb: 4 }}
+    >
+     Projects
+    </Typography>
+
 
       <Grid container spacing={3} justifyContent="center">
         {projects.map((project, index) => (
