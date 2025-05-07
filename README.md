@@ -49,12 +49,8 @@ npm start
 
 4. Open your browser and go to `http://localhost:3000`.
 
-##Contact
 
-If you'd like to collaborate or have any questions, feel free to [reach out through the contact form](#) on the site or connect via GitHub.
-
-```
 ##LIVE-DEMO link(Vercel)
 
-(https://github.com/aswab007/portfolio-2025)
-
+[ https://github.com/aswab007/portfolio-2025
+](https://vercel.com/aswab007s-projects/react-css-portfolio)
