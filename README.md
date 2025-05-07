@@ -58,14 +58,3 @@ If you'd like to collaborate or have any questions, feel free to [reach out thro
 
 (https://github.com/aswab007/portfolio-2025)
 
-## Home Page
-![alt text](Contact.jpg)
-
-## Education
-[text](README.md) ![text](Eduacation.jpg)
-
-## Projects
-Projects.jpg
-
-## Contact
-Contact.jpg
